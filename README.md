@@ -1,9 +1,6 @@
 NumixBlue is a modified version of the original GTK3 Theme "Numix". Just like the original Numix theme, it supports
 GNOME, xFce, openbox, and Unity.
 
-KNOWN BUGS:
-......Not exactly ones I can list. There are bugs though... I will address theme soon enough. Like, today. Or tomorrow.
-
 ### Manual installation
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/`
